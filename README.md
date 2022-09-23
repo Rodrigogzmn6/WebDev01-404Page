@@ -53,5 +53,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Rodrigogzmn6](https://{github.com/your-usermame})
-- Twitter [@rodrigogzmn](https://{twitter.com/your-username})
+- GitHub [@Rodrigogzmn6](https://github.com/Rodrigogzmn6)
+- Twitter [@rodrigogzmn](https://twitter.com/rodrigogzmn)
