@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://frolicking-scone-819d77.netlify.app/">
+    <a href="https://404-notfound-scarecrow.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -30,7 +30,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -42,8 +41,8 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 - [WOW.js](https://wowjs.uk/)
 
 ## Features
