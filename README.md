@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://rodrigogzmn6.github.io/WebDev01-404Page/">
+    <a href="https://rodrigogzmn6-404-notfound.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://404-notfound-scarecrow.netlify.app/">
+    <a href="https://github.com/Rodrigogzmn6/WebDev01-404Page">
       Solution
     </a>
     <span> | </span>
